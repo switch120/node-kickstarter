@@ -1,4 +1,5 @@
 .env
+.vagrant
 public/css/lib/*
 public/css/themes/*
 .idea
