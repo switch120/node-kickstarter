@@ -1,2 +1,6 @@
+.env
 public/css/lib/*
 public/css/themes/*
+.idea
+node_modules
+*.log
